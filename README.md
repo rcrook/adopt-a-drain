@@ -11,6 +11,8 @@ Claim responsibility for reporting problems with Storm Drains
 You can see a running version of the application at
 [http://adopt-a-drain.herokuapp.com/][demo].
 
+This project's goal is to bring up an Adopt-A system for the Ann Arbor, Michigan area.
+
 [demo]: http://adopt-a-drain.herokuapp.com/
 
 ## <a name="installation"></a>Installation
